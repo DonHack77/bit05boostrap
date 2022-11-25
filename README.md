@@ -1,4 +1,4 @@
-# bit05boostrap
+# bit05bootstrap
 
 ## POSH STORE
 (Calidad y eficiencia)
