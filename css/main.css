@@ -49,3 +49,8 @@
             white-space: nowrap;
             -webkit-overflow-scrolling: touch;
         }
+
+
+        .white{
+            color: antiquewhite;
+        }
